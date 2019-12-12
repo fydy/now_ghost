@@ -5,7 +5,7 @@ Ghost-now 是一种 Serverless 部署 Ghost 博客的方式。
 2. 下载安装 [NodeJS 8 LTS](https://nodejs.org/zh-cn/download/) 和 [Yarn](https://yarnpkg.com/lang/zh-hans/docs/install/)
 3. 在本机登陆 Zeit-Now，下载本项目源码
 ```bash
-git clone https://github.com/S8Cloud/ghost-now.git && cd ghost-now
+git clone https://github.com/fydy/now_ghost.git && cd now_ghost
 ```
 4. **修改 `now.json` 中的 `url` 和 `alias` 为您的域名**
 5. **先后执行 `yarn setup` 和 `yarn deploy`**
