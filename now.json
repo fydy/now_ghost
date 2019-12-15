@@ -6,10 +6,10 @@
         "node": "12.x"
     },
     "env": {
-        "url": "https://gh.casenote.me",
+        "url": "https://now.casenote.me",
         "NODE_ENV": "production"
     },
     "alias": [
-        "https://gh.casenote.me"
+        "https://now.casenote.me"
     ]
 }
