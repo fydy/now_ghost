@@ -3,7 +3,7 @@
     "name": "ghost",
     "version": 1,
     "engines": {
-        "node": "12.x"
+        "node": "8.x"
     },
     "env": {
         "url": "https://gh.casenote.me",
