@@ -8,8 +8,5 @@
     "env": {
         "url": "https://gh.casenote.me",
         "NODE_ENV": "production"
-    },
-    "alias": [
-        "https://gh.casenote.me"
-    ]
+    }
 }
