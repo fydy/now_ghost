@@ -1,15 +1,15 @@
   
 {
     "name": "ghost",
-    "version": 1,
+    "version": 2,
     "engines": {
         "node": "12.x"
     },
     "env": {
-        "url": "https://gh.luov.me",
+        "url": "https://gh.casenote.me",
         "NODE_ENV": "production"
     },
     "alias": [
-        "https://gh.luov.me"
+        "https://gh.casenote.me"
     ]
 }
