@@ -1,9 +1,9 @@
   
 {
     "name": "ghost",
-    "version": 1,
+    "version": 2,
     "engines": {
-        "node": "8"
+        "node": "12.x"
     },
     "env": {
         "url": "https://gh.luov.me",
